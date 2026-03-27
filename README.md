@@ -1,5 +1,5 @@
 # E-Commerce RAG Customer Service Chatbot
-[demo](demo.gif)
+![demo](demo.gif)
 A production-style Retrieval-Augmented Generation (RAG) system for e-commerce customer service, comparing three retrieval strategies with quantitative evaluation.
 
 **Live Demo:** [Link](https://346dc04c8238cd2a3a.gradio.live)
