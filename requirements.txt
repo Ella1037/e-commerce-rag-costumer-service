@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+
+# LangChain
+langchain-core>=1.2.31
+langchain-community
+langchain-groq>=1.1.2
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+
+# Embeddings & models
+sentence-transformers
+transformers
+optimum[onnxruntime]
+onnxruntime
+torch
+numpy>=2.0
+
+# Load testing
+locust
